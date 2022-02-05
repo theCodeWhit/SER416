@@ -121,7 +121,27 @@ This is a brut force method and it is not ideal.
 
 # CRITICAL PATH METHOD/ANALYSIS
 > 11 MIN
+Critical Path Analysis Algorithm 
 
+#### FINDING CRITICAL PATH - a better solution 
+![image](https://user-images.githubusercontent.com/48422525/152658756-9384dec9-270c-4b85-a9a5-e070017efa3e.png)
+
+- Each box - one task
+- Duration - typically known 
+- Four Corners
+  - ***Typically not dates list, but offset from start; typically fix the units to hours/days/weeks*** 
+  - EARLY START (ES): Earliest possible date that the task will be able to start
+  - EARLY FINISH (EF): The earliest possible date that the task will be able to finish
+  - LATE START (LS): The latest possible date (drop dead date) that the task will be able to start without affecting the overall project completion date. 
+        - ***Drop Dead Date: last moment something cannot move without a day for day slip***
+  - LATE FINISH (LF): The latest possible date that the task can finish without affecting the overall project completion date. 
+      - another drop dead date
+
+- Free float / slack 
+    - Amount of time an activity can be delayed without delaying the early start of any immediately following activities
+    - if in critical path -> how much that activity can be delayed without delaying the project
+- Total float / slack 
+  - amount of time an activity may be delayed from its early start without delaying the planned project finish date
 
 
 # CRITICAL PATH METHOD/ANALYSIS ON PAPER
