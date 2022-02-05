@@ -97,18 +97,32 @@ Discretionary are the best becsause you are putting them in there, the others yo
 
 - Types of dependencies or relationships between activities 
   - Finish to start
-  - Start to start
-  -  Finish to finish
-  -  start to finish
-
+  - Start to start:   Two things have to start at the same time 
+      - [ e.g. 2 systems have to be live to start joint validation]
+  - Finish to finish:  Two systems cant be integrated until they are both finished
+  - start to finish: Rare but you can't hand off a project to someone until they are ready to start, aka you cannot finish it until they are ready to start it. 
 
 Use these diagrams to get initial duration / schedule. Later can be used for critical path analysis.
 
+![image](https://user-images.githubusercontent.com/48422525/152656945-f667344d-7e7f-44fb-bee9-54c568accbba.png)
 
+(first one is more intuitive)
 
+#### CRITICAL PATH METHOD (CPM)
+The critical path is the path through your sequence of activities that is going to take the longest amount of time. 
+
+![image](https://user-images.githubusercontent.com/48422525/152657885-8ec3f20a-0113-48f2-81cb-386a18124a73.png)
+so which of these paths is establishing the schedule. The one that takes the longest is your schedule. You can have more than one critical path. Just because the path is critical does not mean the task is critical (growing grass). There may be more critical tasks that are not on the critical path. Examples of a critical path could be the ones that are considered high risk, have external dependencies or are prioritization by the customer, etc. 
+
+#### CRITICAL PATH CALC EXAMPLE
+![image](https://user-images.githubusercontent.com/48422525/152658019-18fddc18-22c0-4b22-9db4-0d3fe19b2071.png)
+If you had a much larger project you would have a lot of problems calculating that. 
+This is a brut force method and it is not ideal. 
 
 # CRITICAL PATH METHOD/ANALYSIS
 > 11 MIN
+
+
 
 # CRITICAL PATH METHOD/ANALYSIS ON PAPER
 > 13 MIN
