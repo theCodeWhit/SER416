@@ -81,7 +81,32 @@ Some people find estimating to be challenging, especially for their own work. It
 **Whant more or less of them?** </br>
 The less the better </br>
 **Which order do you like them?** </br>
-Discretionary are the best becsause you are putting them in there, the others you have less control over. 
+Discretionary are the best becsause you are putting them in there, the others you have less control over. </br>
+
+#### SEQUENCING ACTIVITIES METHODS
+- Arrow diagram method (ADM): 
+  - Activities are represented by Arrows
+  - Nodes or circles are the starting and ending points of activities 
+  - Only show finish-to-start dependencies
+  - refer to the text for the step-by-step process of creating AOA diagrams 
+  - not widely used 
+
+- Precedence Diagramming Method (PDM)
+  - Network diagramming technique in which boxes represent activities 
+  - Most common method used
+
+- Types of dependencies or relationships between activities 
+  - Finish to start
+  - Start to start
+  -  Finish to finish
+  -  start to finish
+
+
+Use these diagrams to get initial duration / schedule. Later can be used for critical path analysis.
+
+
+
+
 # CRITICAL PATH METHOD/ANALYSIS
 > 11 MIN
 
