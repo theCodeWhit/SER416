@@ -142,6 +142,7 @@ Critical Path Analysis Algorithm
     - if in critical path -> how much that activity can be delayed without delaying the project
 - Total float / slack 
   - amount of time an activity may be delayed from its early start without delaying the planned project finish date
+![image](https://user-images.githubusercontent.com/48422525/152658914-7fc322e5-0db2-4c53-b8a8-3388df035ab1.png)
 
 
 # CRITICAL PATH METHOD/ANALYSIS ON PAPER
