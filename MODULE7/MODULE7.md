@@ -176,8 +176,37 @@ For A - you can delay this task by 5 units without affecting its successors. Tot
 
 # CRITICAL PATH METHOD/ANALYSIS
 > 5 MIN
+You want to pay close attention to the tasks that have 0 slack, these are most likely on your critical path 
+
+![image](https://user-images.githubusercontent.com/48422525/152690313-08a21d87-6acc-4e18-88e5-76ff6925c1bc.png)
+
+</br>
+next you want to focus on taks that have the least amount of slack. You can talk to your engineers and try to get some tasks off the critical path. You always have to have a critical path, they are not bad, you just want to try and minimize the critical path duration so you can be more confident in your delivery date. 
+
+#### USING CRITICAL PATH TO SHORTEN PROJECT SCHEDULE 
+- Crashing: Reduce duration of one or more tasks typically by adding more resources. Activities by obtaining the greatest amount of schedule compression for the least incremental cost.
+- Fast tracking: Doing things in parallel or overlapping them, make sure tasks are sufficiently detailed 
+
+If you need to ask for more resources be sure to have a good justification for it. 
+
 
 # SCHEDULE
 > 13 MIN
+
+#### CRITICAL CHAIN SCHEDULING 
+Considers limited resources when creating a project schedule and includes buffers to protect the project completion date
+* Uses the Theory of Constraints (TOC): management philosphy developed by Eliyahu M. Goldratt, attempts to minimize multi-tasking when a resource works on more than one task at a time. 
+
+#### ADDITIONAL CONCEPTS 
+* Buffer: additional time to complete a task
+* Murphey's Law: if something can go wrong, it will
+* Parkinson's Law: Work expands to till the time allowed - try to finish it sooner 
+* Project Buffer: Additional time added before the project's due date (done at a project level). You might have individual task level buffers. Be careful --You could have serious schedule bloat which wont make you competitive 
+* Feeding Buffers: Additional time added before tasks on the critical path 
+
+![image](https://user-images.githubusercontent.com/48422525/152691202-5767b4cc-fcc9-4142-a50c-e0620370004a.png)
+
+
+
 
 
