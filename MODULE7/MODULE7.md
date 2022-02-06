@@ -174,6 +174,8 @@ For A - you can delay this task by 5 units without affecting its successors. Tot
 
 
 
+
+
 # CRITICAL PATH METHOD/ANALYSIS
 > 5 MIN
 You want to pay close attention to the tasks that have 0 slack, these are most likely on your critical path 
