@@ -216,3 +216,13 @@ Considers limited resources when creating a project schedule and includes buffer
   * by using the PERT weighted average for each activity duration estimate, total project duration estimate takes into account the risk or uncertainty in the individual activity estimates
   * = (optimistic + 4* Most likely + Pesstimistic)/6
   
+#### REALITY CHECKS ON SCHEDULING AND THE NEED FOR DISCIPLINE 
+![image](https://user-images.githubusercontent.com/48422525/152692019-3647aa65-8d52-4f29-92c2-8bb033256252.png)
+
+#### WORDS OF CAUTION ON USING PROJECT MANAGEMENT SOFTWARE
+![image](https://user-images.githubusercontent.com/48422525/152692061-d2b154f9-d8f6-4fc8-ac82-5edcd6f82b31.png)
+
+#### PLANNING SCHEDULE MANAGEMENT
+![image](https://user-images.githubusercontent.com/48422525/152692076-3de6f908-717e-4693-85db-99d6a47d1c9b.png)
+
+
