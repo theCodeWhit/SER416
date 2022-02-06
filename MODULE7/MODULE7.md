@@ -144,19 +144,33 @@ Critical Path Analysis Algorithm
   - amount of time an activity may be delayed from its early start without delaying the planned project finish date
 ![image](https://user-images.githubusercontent.com/48422525/152658914-7fc322e5-0db2-4c53-b8a8-3388df035ab1.png)
 
-Example: 
+Example: </br> 
 ![image](https://user-images.githubusercontent.com/48422525/152659253-31156d35-7905-436a-acea-adf32dff92c7.png)
 Homework assignment makes you take a file with this information and internalize it with data structures to do this calculation. 
+
 # CRITICAL PATH METHOD/ANALYSIS ON PAPER
 > 13 MIN
+![image](https://user-images.githubusercontent.com/48422525/152660561-07ea3352-8cd1-4491-9cae-4fa16322bf78.png)
+
 
 # CIRITICAL PATH METHOD/ANALYSIS VIA EXCEL
 > 13 MIN
 > Solved examples provided 
+![image](https://user-images.githubusercontent.com/48422525/152683894-04a5cef1-20d7-48b0-a51e-62ec05b34cda.png)
+The grey cells are formulas </br>
+You dont want to change any of the zeros 
+![image](https://user-images.githubusercontent.com/48422525/152683918-88d472e5-c79f-4ec9-b13d-9b3cc29bab1b.png)
+Enter names and durations of all the tasks </br>
+The free float is going to be the lowest ES of successors minus its early finish 
+FF = ES(minimum of successors) - this.EF </br>
+For A - you can delay this task by 5 units without affecting its successors. Total Float TF: how much slack you have until you increase the duration of the project. 
+
+
 
 # CRITICAL PATH METHOD/ANALYSIS
 > 5 MIN
 
 # SCHEDULE
 > 13 MIN
+
 
