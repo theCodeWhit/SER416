@@ -150,17 +150,24 @@ Homework assignment makes you take a file with this information and internalize 
 
 # CRITICAL PATH METHOD/ANALYSIS ON PAPER
 > 13 MIN
+
+
 ![image](https://user-images.githubusercontent.com/48422525/152660561-07ea3352-8cd1-4491-9cae-4fa16322bf78.png)
 
 
 # CIRITICAL PATH METHOD/ANALYSIS VIA EXCEL
 > 13 MIN
 > Solved examples provided 
+
+
 ![image](https://user-images.githubusercontent.com/48422525/152683894-04a5cef1-20d7-48b0-a51e-62ec05b34cda.png)
-The grey cells are formulas </br>
+</br> The grey cells are formulas </br>
 You dont want to change any of the zeros 
+
 ![image](https://user-images.githubusercontent.com/48422525/152683918-88d472e5-c79f-4ec9-b13d-9b3cc29bab1b.png)
-Enter names and durations of all the tasks </br>
+
+
+</br> Enter names and durations of all the tasks </br>
 The free float is going to be the lowest ES of successors minus its early finish 
 FF = ES(minimum of successors) - this.EF </br>
 For A - you can delay this task by 5 units without affecting its successors. Total Float TF: how much slack you have until you increase the duration of the project. 
