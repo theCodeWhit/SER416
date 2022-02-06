@@ -207,6 +207,10 @@ Considers limited resources when creating a project schedule and includes buffer
 ![image](https://user-images.githubusercontent.com/48422525/152691202-5767b4cc-fcc9-4142-a50c-e0620370004a.png)
 
 
+#### PROGRAM EVALUATION AND REVIEW TECHNIQUE (PERT)
 
-
-
+* Network analysis technique used to estimate project duration when there is a high degree of uncertainty about the individual activity duration estimates. 
+  * uses probabilistic time estimates: duration estimates based on using optimistic, most likely and pessimistic estimates of activity durations
+  * by using the PERT weighted average for each activity duration estimate, total project duration estimate takes into account the risk or uncertainty in the individual activity estimates
+  * = (optimistic + 4* Most likely + Pesstimistic)/6
+  
