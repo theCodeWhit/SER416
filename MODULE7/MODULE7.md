@@ -144,7 +144,9 @@ Critical Path Analysis Algorithm
   - amount of time an activity may be delayed from its early start without delaying the planned project finish date
 ![image](https://user-images.githubusercontent.com/48422525/152658914-7fc322e5-0db2-4c53-b8a8-3388df035ab1.png)
 
-
+Example: 
+![image](https://user-images.githubusercontent.com/48422525/152659253-31156d35-7905-436a-acea-adf32dff92c7.png)
+Homework assignment makes you take a file with this information and internalize it with data structures to do this calculation. 
 # CRITICAL PATH METHOD/ANALYSIS ON PAPER
 > 13 MIN
 
