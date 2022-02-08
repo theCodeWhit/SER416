@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/48422525/153084242-7529a122-398a-48c8-a22d-2a68fc92dcb0.png)
 
 
-#### What is cost? 
+#### WHAT IS COST? 
 > A resource sacrificed or foregone to achieve a specific objective or something given up in exchange 
 It is usually measured in monetary untis like dollars that must be paid to acquire goods and services. Other cost is lost compute time, lab space etc. 
 </br>
@@ -24,6 +24,17 @@ You cannot monitor all of your risks but if you have something that is high impa
 </br>
 #### MORAL OF THE STORY 
 you have a plan A and a plan B but what ends up happening is plan ADAPT -you have to adapt as you go. 
+
+#### WHAT IS COST MANAGEMENT?
+1. Planning 
+2. Estimating Cost
+3. Determining the budget
+4. Controlling costs 
+
+True actual cost is hard to come by -accuracy vs percision
+IT differs from core business 
+
+
 
 
 ## PLANNING COST MANAGEMENT AND ESTIMATING COSTS
