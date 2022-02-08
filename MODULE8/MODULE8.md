@@ -21,8 +21,9 @@ When referring to loss, it isnt always about money, it can be other things as we
     * The most important finding was the large number of gigantic overages or "black swans"; a high-impact event that is rare and unpredictable, but not imporbable in retrospect (aka they should have realized the risk was higher than they thought)
 
 You cannot monitor all of your risks but if you have something that is high impact with low probability you could have some problems. 
-
-
+</br>
+#### MORAL OF THE STORY 
+you have a plan A and a plan B but what ends up happening is plan ADAPT -you have to adapt as you go. 
 
 
 ## PLANNING COST MANAGEMENT AND ESTIMATING COSTS
