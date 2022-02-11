@@ -153,4 +153,36 @@ Usually a company has to make 3 times your salary to justify your expense becaus
   * Roll up can be used for budgeting 
   * finance folks may be able to help get you reports / set up page for you
 
+#### EARNED VALUE MANAGEMENT 
+* Much of this is not in the book 
+* Project performance measurement technique that integrates scope, time and cost data 
+* Earned value manageement ivolves calculating three values for each activity or summary activity from a project's WBS each period
+ * Planned Value -- What you plan on spending on a given task 
+ * Actual Cost -- What you have spent so far on a given taks 
+ * Earned Value -- is the % of total budget actually completed (can also be a $)
+
+Example: When assessing earned value, lets assume you plan to get $8K amount of work done, did you actually complete all the tasks during that period? or were only half of them completed (aka $4K amount of work) at the cost of $8k --in this case you are over cost and behind schedule. This would make your earned value (EV) $4K. Earned value can never increased for a task because that would require more work. 
+
+![image](https://user-images.githubusercontent.com/48422525/153661233-cfbce6fe-8261-4255-a8c7-797dca85321e.png)
+
+* Planned Value (PV) -- You have this from the get-go, you may revise/update it
+* Actual Cost (AC) -- You get that from the team (how many hours/dollars you spend per period) 
+* Earned Value (EV) -- Assessing how much work got done against what was planned. EV = PV of all completed work 
+* Cost Variance (CV) -- CV = EV - AC : If the EV is greater than the AC you are ahead of the game. 
+* Schedule Variance (SV) -- SV = EV - PV : How much work you have done compared to plan
+* Cost Performance Index (CPI) -- CPI = EV/AV : values less than 1 means you are overrunning 
+* Schedule Performance Index (SPI) -- EV/PV 
+* Budget at Completion (BAC) -- Doesnt change 
+* Cost Estimate at Completion (EAC) -- 
+* Cost Estimate to Complete (ETC) -- if you were behind in the beginning but everything else goes according to plan, the ETC tells you the estimate to complete the particular CPI 
+
+#### Earned Value Management (EVM)
+* Recall EAC = Total Cost at current efficiency to date 
+* ETC = Total cost if efficiency moves back to planned efficency 
+* But what efficiency do you need to work to be able to meet original cost? 
+
+![image](https://user-images.githubusercontent.com/48422525/153663760-542c9921-ea9f-4ca4-bdcf-6fa14e8c80f5.png)
+
+
+
 
