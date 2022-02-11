@@ -98,5 +98,35 @@ The number of cost estimates vary by application area
 
 ![image](https://user-images.githubusercontent.com/48422525/153641429-7d41901d-1427-49a4-b1f6-16f760822e2e.png)
 
+#### TYPICAL PROBLEMS WITH IT COST ESTIMATES
+Reasons for inaccuracies
+- Estimates are done too quickly / limited thought
+- People lack estimating experience
+- Human beings are biased toward underestimating 
+- Management lacking desire for accuracy (perhaps not a part of the culture) 
+- you will have noisy data so remember your precision level 
+
+### HOW TO DEVELOP A COST ESTIMATE AND BASIS OF ESTIMATES
+- Do your homework first 
+- Look for best known practices
+- Accepted methodologies if known 
+- Labor cost charts 
+- Talk to finance folks for labor cost 
+- **consider inflation for long term projects
+
+
+![image](https://user-images.githubusercontent.com/48422525/153642398-197dbfdd-2d4a-4a4a-878d-7e05ea385cda.png)
+
+![image](https://user-images.githubusercontent.com/48422525/153642663-e77d69ed-5fc4-4e39-b1ce-4da5513dfec1.png)
+
+Function point estimates business functionality and measure software size. 
+
+### BEST PRACTICE
+"Cost Estimating in an Agile Developement Environment" -2015 Alvin Alexander 
+* Function points are a means of measuring software size in terms that are meaningful to end users
+* User stories are a common way to describe requirements in a simple, concise way. 
+* Developers can analyze user stories to estimate the number of internal logical files (ILFs) 
+
+
 ## BUDGET CONTROL COST, EARNED VALUE MANAGEMENT 
 > 23 MIN
