@@ -183,6 +183,11 @@ Example: When assessing earned value, lets assume you plan to get $8K amount of 
 
 ![image](https://user-images.githubusercontent.com/48422525/153663760-542c9921-ea9f-4ca4-bdcf-6fa14e8c80f5.png)
 
+#### GLOBAL ISSUES 
+* EVM is used worldwide 
+* Most countries require EVM for large defense or government projects
+* EVM is also used in private sector as IT, construction, energy and manufacturing 
+
 
 
 
