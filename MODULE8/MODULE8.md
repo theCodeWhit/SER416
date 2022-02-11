@@ -130,3 +130,27 @@ Function point estimates business functionality and measure software size.
 
 ## BUDGET CONTROL COST, EARNED VALUE MANAGEMENT 
 > 23 MIN
+Determining the budget 
+* Budget is not just the as total cost: it is how you allocate the project total cost estimate to individual work items (WBS) over time. 
+* Important goal is to produce a cost baseline: you can track to see if you are on track or behind in terms of cost vs baseline.
+
+
+![image](https://user-images.githubusercontent.com/48422525/153643454-e7c96a6a-a844-4e4b-86c3-575d993e3a4b.png)
+
+You have to evaluate the progress made on your project and not just focus on the time. </br>
+Usually a company has to make 3 times your salary to justify your expense because they have to pay for benefits and 401K
+</br>
+
+#### CONTROLLING COST 
+* Activities involved in controlling project cost
+  * Monitoring cost performance
+  * Ensurancing that only appropriate project changes are included in a revised cost baseline
+  * Informing project stakeholders of authorized changes to the project that will affect cost 
+  * Ivestigate any significant deviations --ensure no scope creep, misunderstood requirements etc. 
+* Several tools and techniques assist in project cost control 
+  * Expert judgment, data analysis, project management information 
+* Some companies will have their own tools that each manager assigns their team to company wide projects 
+  * Roll up can be used for budgeting 
+  * finance folks may be able to help get you reports / set up page for you
+
+
