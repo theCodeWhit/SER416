@@ -103,8 +103,45 @@ Main output is risk management plan
 
 ## IDENTIFYING RISKS, RISK REGISTER
 > 8 mins
+
+#### Identifying Risks
+
+- Understanding what potention events might hurt or enhance a project
+ - You cannot manage risks if you do not identify them first 
+ - similar to you cant fix a problem unless you admit it
+- Suggestions for identifying risks: Tools and techniques 
+  - Brainstorming 
+    - Group attempts to generate ideas
+  - The Delphi Technique -collaborate with experts 
+  - Interviewing : fact finding 
+  - SWOT analysis (SWOT = Strength, Weaknesses, Opp and Threats) 
+  - Experience makes you better; there is no perfection 
+
+
+![image](https://user-images.githubusercontent.com/48422525/154816991-d79a680d-1447-4c3c-8332-cbd042ca6319.png)
+
+![image](https://user-images.githubusercontent.com/48422525/154817102-aa9dedd0-af8b-463e-9a0d-f90123075637.png)
+
+#### RISK REGISTER CONTENTS 
+![image](https://user-images.githubusercontent.com/48422525/154817208-58d3aa98-a29b-4422-bf79-91c0164c4236.png)
+
+
+
 ## QUALITATIVE RISK ANALYSIS 
 > 8 mins
+
+![image](https://user-images.githubusercontent.com/48422525/154817258-881a7f5e-1f14-4e9d-ada9-58681a870023.png)
+
+![image](https://user-images.githubusercontent.com/48422525/154817267-53140b01-1260-45d9-978f-6f523821926c.png)
+
+![image](https://user-images.githubusercontent.com/48422525/154818174-721104da-f917-4e85-bddc-79cc7122b781.png)
+
+![image](https://user-images.githubusercontent.com/48422525/154818218-6874dc01-4ea3-4cd5-98fb-ddb070a49586.png)
+
+![image](https://user-images.githubusercontent.com/48422525/154818235-94dfe39a-ff7b-4570-b49b-ef8ba26e8d31.png)
+
+![image](https://user-images.githubusercontent.com/48422525/154818257-aa54eb1f-4ae7-485e-9fef-87b1db4d3f5f.png)
+
 ## QUANTITIVE RISK ANALYSIS 
 > 16 mins
 ## PLANNING AND MONITORING RISK RESPONSES 
