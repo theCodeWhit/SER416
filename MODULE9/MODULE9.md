@@ -144,7 +144,31 @@ Main output is risk management plan
 
 ## QUANTITIVE RISK ANALYSIS 
 > 16 mins
+
+Often follows Qualitative risk analysis, but both can be done together 
+
+#### Decision Trees and Expected Monetary Value (EMV)
+* A decision tree is used to help select the best course of action in situation in which future outcomes are uncertain
+* Estimated monetary value is the product of risk event probability and the risk event's monetary value
+
+![image](https://user-images.githubusercontent.com/48422525/154818599-8e2cf191-905d-4cbf-aea4-2f3994e7277a.png)
+
+![image](https://user-images.githubusercontent.com/48422525/154818609-ce23c447-9fab-4517-8dd5-86ff6a1fcbf8.png)
+
+Expected: 
+
+![image](https://user-images.githubusercontent.com/48422525/154818740-8b0982ee-3b22-47f0-83ef-369edb25e5b4.png)
+
+#### MONTE CARLO 
+Picks random numbers and simulates them, uses a representation or model of a system to analyze the expected behavior or performance of the system. 
+
+![image](https://user-images.githubusercontent.com/48422525/154818907-0b4460e1-d729-410d-b606-45d5b5145d83.png)
+
+
 ## PLANNING AND MONITORING RISK RESPONSES 
 > 6 mins
+
+
+
 
 
