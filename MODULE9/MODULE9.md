@@ -168,6 +168,16 @@ Picks random numbers and simulates them, uses a representation or model of a sys
 ## PLANNING AND MONITORING RISK RESPONSES 
 > 6 mins
 
+![image](https://user-images.githubusercontent.com/48422525/154819237-5a787fe9-5ed1-4cb7-85f0-a26d78e1be1a.png)
+
+
+It is important to identify residual and secondary risks
+* Residual: risks that remain after all the reponse strategies have been implemented 
+* Secodary: Direct result of implementing a risk response 
+
+Example of contengency plan: 
+
+![image](https://user-images.githubusercontent.com/48422525/154819274-2f4bdf8f-e0d0-4e5c-a2d4-399148870af2.png)
 
 
 
