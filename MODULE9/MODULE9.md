@@ -77,6 +77,29 @@ Example: using Utility
 ## PLANNING RISK MANAGEMENT, RISK BREAKDOWN STRUCTURE
 >8 mins
 
+#### PLANNING RISK MANAGEMENT 
+Main output is risk management plan 
+![image](https://user-images.githubusercontent.com/48422525/154811973-39431186-8815-4e31-baf1-e8a4d218527b.png)
+
+#### ADDITIONAL PLANS
+* Contingency: Predefined actions that the project team will take if an identified risk event occurs 
+* Fallback: developed for risks that have a high impact on meeting project objectives
+* Contingency reserves or allowances
+* Management reserves
+
+#### COMMON SOURCES OF RISK 
+* Market risk
+* Financial risk
+* Technology risk
+* people risk 
+* structure/process risk 
+
+![image](https://user-images.githubusercontent.com/48422525/154812377-362e7498-986e-44b3-9ffa-04fa16f37096.png)
+
+#### RISK BREAKDOWN STRUCTURE 
+![image](https://user-images.githubusercontent.com/48422525/154812465-31311235-5297-4c91-9267-181552364b5b.png)
+
+
 
 ## IDENTIFYING RISKS, RISK REGISTER
 > 8 mins
