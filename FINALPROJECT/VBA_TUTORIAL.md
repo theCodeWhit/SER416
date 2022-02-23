@@ -5,7 +5,7 @@
 The Macro Recorder 13:40
 Using Relative References 20:39
 Recording Simple Macros 27:51
-  - How to edit formatting, change phone number and SSN with recorded macros and "***-**-"RIGHT(A1,4))
+  - How to edit formatting, change phone number and SSN with recorded macros and "***-**-"&RIGHT(A1,4))
   - 
 Multi-Step Macro Recording 39:25
 Sort and Filter Macro Recording 45:26
@@ -23,5 +23,22 @@ ActiveSheet, Sheets, and Name 1:54:01
 CurrentRegion 1:56:40
 Practice 1:58:08
 ```
+
+#### VBA INTERFACE SETUP
+
+
+You can use the "immediate window" to test snippets of code. To access in your VBA interface: view->Immediate Window. </br>
+
+You can use the object browser to view all the objects in your library
+
+#### CREATING MACROS FROM SCRATCH 
+![image](https://user-images.githubusercontent.com/48422525/155425467-c4347d48-2c8e-41fe-b6ee-1de3edab6419.png)
+
+#### RANGE
+To refer to a cell (or cells): Range("C3") </br>
+To select a cell (or cells): Range("C3").Select 
+
+![image](https://user-images.githubusercontent.com/48422525/155425754-45c0b459-0f59-412e-bad8-3d674af002ea.png)
+
 
 
