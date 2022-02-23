@@ -74,6 +74,31 @@ To select a sheet
 
 
 # VBA ADVANCED TUTORIAL 
-
+> https://www.youtube.com/watch?v=MeKL_n6SiYY&ab_channel=LearnitTraining
+```
+Start 0:00
+Variables 0:03
+Variable Rules 7:59
+For Next Loop Basics 11:18
+For Next Loop Doubled 15:44
+For Next Loop Triple 19:47
+For Each Loop 22:11
+Exit For Statement 23:50
+Do While Loop 27:07
+Do While Not Empty Loop 30:32
+Do Until Loop 32:53
+Do Loop UNTIL 35:11
+Count and Offset 36:49
+End, Address, Call Statement 48:23
+Practice 55:35
+Using the FIND Tool in a Macro 1:03:47
+Message Boxes 1:14:50
+Input Boxes 1:22:58
+Code Continuation Character and vbCrLf Constant 1:27:16
+If Then, ElseIF, and Else 1:33:44
+Select Case 1:40:13
+Multiple Variables 1:42:58
+Practice 1:46:09
+```
 
 
