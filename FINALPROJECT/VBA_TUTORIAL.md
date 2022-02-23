@@ -1,6 +1,7 @@
 # VBA TUTORIAL 
 >https://www.youtube.com/watch?v=G05TrN7nt6k&ab_channel=LearnitTraining
 
+>> This is all super basic stuff, not much on scripting 
 ```
 The Macro Recorder 13:40
 Using Relative References 20:39
@@ -39,6 +40,39 @@ To refer to a cell (or cells): Range("C3") </br>
 To select a cell (or cells): Range("C3").Select 
 
 ![image](https://user-images.githubusercontent.com/48422525/155425754-45c0b459-0f59-412e-bad8-3d674af002ea.png)
+
+### SELECTION & COLOR 
+* Range is absolute 
+* Selection refers to what is already selected 
+![image](https://user-images.githubusercontent.com/48422525/155426630-d1a29a55-efc6-4572-83aa-0b43ba0c5246.png)
+
+![image](https://user-images.githubusercontent.com/48422525/155426651-322ff339-f71c-4cdf-b9a4-58940907a031.png)
+
+![image](https://user-images.githubusercontent.com/48422525/155426756-dacab842-6bb7-41b4-8cef-98abcf3f657a.png)
+
+![image](https://user-images.githubusercontent.com/48422525/155426783-4df921b2-b9e0-4ec3-a133-b27ca86aceac.png)
+
+![image](https://user-images.githubusercontent.com/48422525/155426874-df33deb7-aee7-43ff-8683-64e7a056eabb.png)
+
+#### VALUE & CLEAR
+
+![image](https://user-images.githubusercontent.com/48422525/155427191-1b1f6dc5-5a53-4c46-81a1-8a6b2353b548.png)
+
+#### ACTIVESHEETS, SHEETS, and NAME
+To rename the sheet you have selected 
+```
+ActiveSheet.Name = "Portfolio4"
+```
+To select a sheet 
+
+![image](https://user-images.githubusercontent.com/48422525/155427405-3e687b23-3687-4f00-9701-fbc935104d27.png)
+
+
+#### CURRENT REGION 
+![image](https://user-images.githubusercontent.com/48422525/155427670-e2e2d602-397a-4eaf-a727-50d0ee736522.png)
+
+
+
 
 
 
