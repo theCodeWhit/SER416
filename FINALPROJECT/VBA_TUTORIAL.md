@@ -7,7 +7,6 @@ The Macro Recorder 13:40
 Using Relative References 20:39
 Recording Simple Macros 27:51
   - How to edit formatting, change phone number and SSN with recorded macros and "***-**-"&RIGHT(A1,4))
-  - 
 Multi-Step Macro Recording 39:25
 Sort and Filter Macro Recording 45:26
 Protecting and Formatting Sheets with the Macro Recorder 51:35
