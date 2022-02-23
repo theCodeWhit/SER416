@@ -1,4 +1,4 @@
-# VBA TUTORIAL 
+# VBA BEGINNER TUTORIAL 
 >https://www.youtube.com/watch?v=G05TrN7nt6k&ab_channel=LearnitTraining
 
 >> This is all super basic stuff, not much on scripting 
@@ -73,6 +73,7 @@ To select a sheet
 
 
 
+# VBA ADVANCED TUTORIAL 
 
 
 
