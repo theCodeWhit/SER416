@@ -99,5 +99,12 @@ Select Case 1:40:13
 Multiple Variables 1:42:58
 Practice 1:46:09
 ```
+#### VARIABLES
+![image](https://user-images.githubusercontent.com/48422525/155521787-c5f3eba7-8d76-412e-a793-0d00d76e4b5f.png)
+
+
+![image](https://user-images.githubusercontent.com/48422525/155522171-19922afe-c24b-4e82-b2e6-c180fd4c2f77.png)
+
+
 
 
