@@ -105,6 +105,15 @@ Practice 1:46:09
 
 ![image](https://user-images.githubusercontent.com/48422525/155522171-19922afe-c24b-4e82-b2e6-c180fd4c2f77.png)
 
+#### FOR NEXT LOOP BASICS
+
+![image](https://user-images.githubusercontent.com/48422525/155529552-62eb7024-098d-4795-8aee-a9d702923255.png)
+
+#### FOR NEXT LOOP DOUBLED
+The trick to a doubled for loop is making sure the loop that is on the inside also ends ("Next intRow") on the inside
+
+![image](https://user-images.githubusercontent.com/48422525/155530728-08a9fff5-1178-4972-9d7d-292732469842.png)
 
 
+#### 
 
