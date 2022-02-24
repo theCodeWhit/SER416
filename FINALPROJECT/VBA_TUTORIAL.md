@@ -127,5 +127,12 @@ This example shows a message box for every instance of 'x' in the entire workshe
 
 ![image](https://user-images.githubusercontent.com/48422525/155536192-4709bcef-0b5b-4276-8269-c7a58fd0e2d5.png)
 
-#### EXIT FOR STATEMENT 
+#### EXIT FOR STATEMENT with if/then
+The exit for statement is used to exit the for loop prior to the actual ending statement 
+
+If you have a clause that would require you to exit the loop early, use exit for statement
+
+![image](https://user-images.githubusercontent.com/48422525/155537358-6e97d59f-c90b-4500-87a3-042d1b3bcfc1.png)
+
+
 
