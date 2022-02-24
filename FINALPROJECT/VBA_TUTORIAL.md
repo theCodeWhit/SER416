@@ -163,10 +163,60 @@ Instead of saying do until, we are going to say do ...loop until
 ![image](https://user-images.githubusercontent.com/48422525/155542477-e71a5d68-77d2-4a31-b075-fe81181e9342.png)
 
 
-### GENERATE REPORTS 
+### COUNT AND OFFSET
 ![image](https://user-images.githubusercontent.com/48422525/155547588-075fb0be-e82c-4b9e-829b-658299ff2476.png)
 
+### ADDRESS, CALL, END
+How to create a macro that travels along a particular column to find the content that is there. It will also remember exactly where it found that content so that later it can grab all that content and then be able to copy and paste it or move it to another location. 
 
+![image](https://user-images.githubusercontent.com/48422525/155556077-51d4a97a-131f-48ed-b5f1-a1fda8c27341.png)
+
+This can work on any of your sheets for column A.
+Now that you are able to find the content, you will want to run the other macros (copy/paste/insert). 
+The parent macros job is to run all the other macros. To do this, use the Call statement 
+
+
+![image](https://user-images.githubusercontent.com/48422525/155556682-94802976-ba83-4d11-ad7b-70ef2c05dec5.png)
+
+![image](https://user-images.githubusercontent.com/48422525/155556812-73229c8a-f013-47af-9a96-7a7a6b7ed88f.png)
+
+#### REPORT GENERATOR & PRACTICE
+Implementing all created macros to generate a report 
+
+![image](https://user-images.githubusercontent.com/48422525/155576419-c315b27b-a7c6-4687-ba59-39cf8c6c7dbc.png)
+
+
+### USING THE FIND TOOL 
+
+Use a macros recorder to find any cell containing the word "portfolio" and 
+add script to format it a particular way. 
+
+We will need to put a loop in here and eventually a logic test that is able to end the loop when a particular criteria is met.
+
+So we are going to use a do loop that runs while the cell we started on is not the cell that I have ended on 
+
+
+![image](https://user-images.githubusercontent.com/48422525/155581105-2aa2f136-43bc-4b45-b3d7-e72fbf8c1f56.png)
+
+
+Next you have to Call the function in your GenRep() 
+
+### MESSAGE BOXES 
+
+
+![image](https://user-images.githubusercontent.com/48422525/155581529-932f6c82-2c11-499a-b60a-81f642002e13.png)
+
+
+![image](https://user-images.githubusercontent.com/48422525/155581652-e4499025-bae6-4d08-bf01-44ff312b8770.png)
+
+
+![image](https://user-images.githubusercontent.com/48422525/155582060-4ea3751d-1597-4d37-b5c0-8325d9534538.png)
+
+![image](https://user-images.githubusercontent.com/48422525/155584047-f66c2f08-afa9-472a-b458-1dcc9c93f1c9.png)
+
+![image](https://user-images.githubusercontent.com/48422525/155584134-7a32533b-d6d5-4c62-9d16-b0496121c70a.png)
+
+![image](https://user-images.githubusercontent.com/48422525/155584541-5a7b1794-7d62-4f37-acb9-0b63cd85e0d5.png)
 
 
 
