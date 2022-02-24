@@ -141,3 +141,10 @@ Lets say we wanted to create a loop whose sole job wasnt just to do that loop a 
 Do while loop  
 ![image](https://user-images.githubusercontent.com/48422525/155538976-b5365afc-3e0b-4df9-b861-7c6445e9f821.png)
 
+#### DO WHILE CALC LOOP 
+Do while not empty loop 
+
+![image](https://user-images.githubusercontent.com/48422525/155540169-eae4cf9a-44fb-447f-9975-c642df72e491.png)
+
+
+
