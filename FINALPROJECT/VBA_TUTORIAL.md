@@ -147,7 +147,7 @@ Do while not empty loop
 ![image](https://user-images.githubusercontent.com/48422525/155540169-eae4cf9a-44fb-447f-9975-c642df72e491.png)
 
 #### DO UNTIL 
-Performs its action until a criteria equivocates to true. 
+Performs its action until a criteria equivocates to true. In this case, until the cell is empty 
 
 before running macros: 
 ![image](https://user-images.githubusercontent.com/48422525/155541751-8bfee131-af74-442d-ad29-7c60f02c76f3.png)
@@ -157,6 +157,14 @@ After running:
 ![image](https://user-images.githubusercontent.com/48422525/155541895-e7ad8f67-0f6d-467d-b4af-00d7bfd482a4.png)
 
 
+#### DO LOOP UNTIL 
+Instead of saying do until, we are going to say do ...loop until 
+
+![image](https://user-images.githubusercontent.com/48422525/155542477-e71a5d68-77d2-4a31-b075-fe81181e9342.png)
+
+
+### GENERATE REPORTS 
+![image](https://user-images.githubusercontent.com/48422525/155547588-075fb0be-e82c-4b9e-829b-658299ff2476.png)
 
 
 
