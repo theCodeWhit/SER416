@@ -1,4 +1,4 @@
-# VBA BEGINNER TUTORIAL 
+# VBA BEGINNER TUTORIAL (LEARNIT SERIES)
 >https://www.youtube.com/watch?v=G05TrN7nt6k&ab_channel=LearnitTraining
 
 >> This is all super basic stuff, not much on scripting 
