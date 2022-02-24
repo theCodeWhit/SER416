@@ -135,4 +135,9 @@ If you have a clause that would require you to exit the loop early, use exit for
 ![image](https://user-images.githubusercontent.com/48422525/155537358-6e97d59f-c90b-4500-87a3-042d1b3bcfc1.png)
 
 
+#### DO WHILE LOOP 
+Lets say we wanted to create a loop whose sole job wasnt just to do that loop a certain number of times, but maybe simply perform its task ad infinitum until some particular criteria was met, this is a "do" loop. There are a few different types of "do" loops. 
+
+Do while loop  
+![image](https://user-images.githubusercontent.com/48422525/155538976-b5365afc-3e0b-4df9-b861-7c6445e9f821.png)
 
