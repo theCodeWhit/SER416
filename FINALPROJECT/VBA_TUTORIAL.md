@@ -115,5 +115,17 @@ The trick to a doubled for loop is making sure the loop that is on the inside al
 ![image](https://user-images.githubusercontent.com/48422525/155530728-08a9fff5-1178-4972-9d7d-292732469842.png)
 
 
-#### 
+#### FOR NEXT LOOP TIRPLE
+![image](https://user-images.githubusercontent.com/48422525/155531494-792d9f09-f2b4-4465-ad6b-2f906b9d98cc.png)
+
+
+#### FOR EACH LOOP
+A for each loop is a for next loop, but it operates on entire collections. In this case we have a collection of worksheets in this workbook altogether they make up the collection called ' Worksheet', so if i have something thats a collection like worksheets then I can say I want to do this particular thing to every single thing in that particular collection.
+
+This example shows a message box for every instance of 'x' in the entire worksheet. 
+> **This could be used to notify suppport staff of payment deadlines, where x would be a range of dates** 
+
+![image](https://user-images.githubusercontent.com/48422525/155536192-4709bcef-0b5b-4276-8269-c7a58fd0e2d5.png)
+
+#### EXIT FOR STATEMENT 
 
