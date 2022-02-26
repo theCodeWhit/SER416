@@ -13,7 +13,7 @@
 - Dealing with Related Tables 
 ```
 
-### CREATING A CONNECTION WITH ACCESS IN EXCEL VBA
+## CREATING A CONNECTION WITH ACCESS IN EXCEL VBA
 
 - Creating a Connection
 
@@ -64,13 +64,90 @@
 ![image](https://user-images.githubusercontent.com/48422525/155849622-bc3f41dc-b154-45fc-848c-c601ae902a1c.png)
 
 * Opening and Closing a Recordset
+  * you can open and close a recordset in the same way you would open/close a connection 
+  * apply open method within you With statement
+  * Close data outside of With statement 
+  * It is important to close a recordset before you close a connection
+  * You can also release the variables, such as "MoviesData" to free up the memory space (this usually already happens at "End Sub" but it is good practice 
+
+
+![image](https://user-images.githubusercontent.com/48422525/155849990-4127847f-1a25-471f-9a4a-234bc41e956d.png)
 
 
 
 
+## ERROR HANDLING 
+
+We want to make sure that we close out our connection if something fails afer we have opened a connectiuon with our database. 
+
+
+* Error handling for db connection (Open)
+
+
+![image](https://user-images.githubusercontent.com/48422525/155850938-073e7442-b51d-4f44-b1aa-f1a00b6d3d82.png)
 
 
 
+* Error handling for recordset (Open) 
+
+![image](https://user-images.githubusercontent.com/48422525/155851019-08eea42e-ad7e-41e2-810d-6d9d3f96e35a.png)
+
+
+* Where you modify your data
+
+![image](https://user-images.githubusercontent.com/48422525/155851132-8016bcfa-2bcd-43c3-9f71-9e1ec66630c1.png)
+
+* Or you can move your End With statement down 
+
+![image](https://user-images.githubusercontent.com/48422525/155851260-0ade7aaf-e78f-463a-acf1-0e24c0a5f410.png)
+
+## ADDING TO THE RECORDSET
+* Using .AddNew
+  * has a field and value property 
+  * Fields refer to table column titles 
+  
+  ![image](https://user-images.githubusercontent.com/48422525/155855758-4fbc1a00-743e-4640-bf77-60913e742198.png)
+
+* All together
+
+![image](https://user-images.githubusercontent.com/48422525/155857669-8c2034cd-ec76-468f-b8ba-082a40ce8871.png)
+
+## LOOPING OVER A RECORDSET
+eof (end of file)
+
+```
+do until .EOF
+...
+Loop
+```
+
+## CHECKING FIELD DATA
+- .MoveFirst : moves to the first element in the list
+- .MoveLast : Moves to the last element in the list
+- .MoveNext : next element 
+```
+if .Fields("FilmRuntimeMinutes").Value > 180 Then 
+    .Fields("FilmRuntimeMinutes").Value = 180
+    .Update
+End if
+.MoveNext
+```
+
+To only cancel Update if you are not at the EOF or BOF
+![image](https://user-images.githubusercontent.com/48422525/155858308-e82bc191-19b2-4b88-ad19-d2178b34f63a.png)
+
+
+## DELETING RECORDS
+
+add code that allows you to undo. Before you try to modify any data you tell the db to begin a transaction [ADO terms: this is a method that is associated with a connection object rather than the record set]
+
+* You must do 1 of two things at the end of your transaction: 
+* commitTrans : commits changes
+* RollbackTrans : undoes any changes since the transaction began 
+
+You can use a conditioning statement to decide whether you want to commit or rollback. Rollback is typically used as a error handling routine in case something goes wrong with modifying data in a complex sequence of changes. 
+
+![image](https://user-images.githubusercontent.com/48422525/155858497-272cdb4b-9e02-4470-aff7-f9e079765e15.png)
 
 
 
